@@ -78,12 +78,17 @@ export default {
 }
 </script>
 <style>
-img {
+.img {
   display: inline-block;
+  position: relative;
 }
 .img img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  font-size: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 </style>
