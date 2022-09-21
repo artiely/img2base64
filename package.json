@@ -14,7 +14,7 @@
     "quasar": "^1.0.0",
     "v-copy": "^0.1.0",
     "vue": "^2.6.11",
-    "vuetify": "^2.2.23"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",
